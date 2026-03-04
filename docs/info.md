@@ -25,4 +25,4 @@ Set the clock to 10kHz and you should see the 5th output flashing quickly and th
 
 ## External hardware
 
-List external hardware used in your project (e.g. PMOD, LED display, etc), if any
+7seg display
